@@ -1,4 +1,4 @@
-module github.com/mpiraux/ls-qpack-go
+module github.com/PROGNOSISTool/ls-qpack-go
 
 go 1.16
 
